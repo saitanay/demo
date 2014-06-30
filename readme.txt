@@ -1,2 +1,2 @@
 hi this is master
-this is change from ticket 123
+these are changes from ticket 123
